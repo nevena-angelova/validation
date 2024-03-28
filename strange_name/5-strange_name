@@ -1,0 +1,9 @@
+file_name="\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)"
+text_content="Hello DevOps\n"
+
+echo -e "$text_content" -> "$file_name"
+
+
+
+
+
